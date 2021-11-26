@@ -1,36 +1,51 @@
-﻿VIN;option_code;color;engine;body style;transmission;model;brand;date of made;price
-D255;Active Plus;Silver;petrol;4-door sedan;МТ;ACCENT;hyundai;;6 390 000
-D265;Comfort;White;petrol;4-door sedan;AТ;ACCENT;hyundai;;6 790 000
-G238;Elegance;Grey;petrol;4-door sedan;AТ;ACCENT;hyundai;;7 490 000
-GARZ;Start;Grey;petrol;4-door sedan;MT;ELANTRA;hyundai;;8 390 000
-GAU6;Base;Grey;petrol;4-door sedan;AT;ELANTRA;hyundai;;9 090 000
-GAQQ;Comfort;White;petrol;4-door sedan;AT;ELANTRA;hyundai;;9 590 000
-GAQM;Elegance;White;petrol;4-door sedan;AT;ELANTRA;hyundai;;10 290 000
-GAQR;Style;White;petrol;4-door sedan;AT;ELANTRA;hyundai;;11 290 000
-GAQS;High-Tech;Blue;petrol;4-door sedan;AT;ELANTRA;hyundai;;11 790 000
-GAQT;Luxe;Orange;petrol;4-door sedan;AT;ELANTRA;hyundai;;12 190 000
-GHPR;Comfort;Blue;petrol;crossover;AT;SANTA FE;hyundai;;14 090 000
-GHQ8;Travel;Grey;petrol;crossover;AT;SANTA FE;hyundai;;15 190 000
-GHPT;Prime;Black;petrol;crossover;AT;SANTA FE;hyundai;;16 290 000
-GHPU;High-Tech;White;petrol;crossover;AT;SANTA FE;hyundai;;17 790 000
-GMB1;Base;White;deisel;van;MT;H1;hyundai;;18 400 000
-GMB2;Base;Silver;deisel;van;AT;H1;hyundai;;19 100 000
-GMB5;Family;White;deisel;van;AT;H1;hyundai;;20 100 000
-GMB6;Business;Brown;deisel;van;AT;H1;hyundai;;20 900 000
-E7HD;Comfort;Black;petrol;crossover;AT;Subaru XV;Subaru;;13 990 000
-E7JG;Elegance;Grey;petrol;crossover;AT;Subaru XV;Subaru;;16 190 000
-E7VF;Standart;Green;petrol;crossover;AT;Forester;Subaru;;14 190 000
-E7BM;Elegance;Blue;petrol;crossover;AT;Forester;Subaru;;15 490 000
-E7OS;Prestige;Grey;petrol;crossover;AT;Forester;Subaru;;18 190 000
-E7OI;Sport;Bronze;petrol;crossover;AT;Forester;Subaru;;18 390 000
-E7OX;Premium;Grey;petrol;universal;AT;Outback;Subaru;;19 990 000
-E74Q;Touring;Green;petrol;universal;AT;Outback;Subaru;;22 190 000
-M7P1;Comfort;White;petrol;universal;AT;Jolion;Haval;;9 090 000
-M7P2;Elite;Grey;petrol;universal;MT;Jolion;Haval;;10 090 000
-M7B2;Elite;White;petrol;universal;AT;Jolion;Haval;;10 690 000
-M7P3;Premium;Bronze;petrol;universal;AT;Jolion;Haval;;11 690 000
-BSX1;sDrive 18;Black;petrol;crossover;AT;X1;BMW;;14 437 500
-BMX1;xDrive 20;White;petrol;crossover;AT;X1;BMW;;17 377 500
-BMM2;220d;Grey;deisel;coupe;AT;2;BMW;;17 797 500
-B2X3;xDrive 20;Bronze;petrol;crossover;AT;X3;BMW;;20 842 500
-B3X3;xDrive 30;White;petrol;crossover;AT;X3;BMW;;22 732 500
+﻿VIN;option_name;color;engine;body style;transmission;model;brand;date of made;price
+D255;Active Plus;Silver;Kappa 1.4 MPI;4-door sedan;МТ;ACCENT;hyundai;2021;6 390 000
+D265;Comfort;White;Kappa 1.4 MPI;4-door sedan;AТ;ACCENT;hyundai;2021;6 790 000
+G238;Elegance;Grey;Kappa 1.6 MPI;4-door sedan;AТ;ACCENT;hyundai;2021;7 490 000
+GARZ;Start;Grey;Gamma 1.6 MPI;4-door sedan;MT;ELANTRA;hyundai;2018;8 390 000
+GAU6;Base;Grey;Gamma 1.6 MPI;4-door sedan;AT;ELANTRA;hyundai;2018;9 090 000
+GAQQ;Comfort;White;Gamma 1.6 MPI;4-door sedan;AT;ELANTRA;hyundai;2018;9 590 000
+GAQM;Elegance;White;Gamma 1.6 MPI;4-door sedan;AT;ELANTRA;hyundai;2018;10 290 000
+GAQR;Style;White;Smartstream G2.0;4-door sedan;AT;ELANTRA;hyundai;2018;11 290 000
+GAQS;High-Tech;Blue;Smartstream G2.0;4-door sedan;AT;ELANTRA;hyundai;2018;11 790 000
+GAQT;Luxe;Orange;Smartstream G2.0;4-door sedan;AT;ELANTRA;hyundai;2018;12 190 000
+GHPR;Comfort;Blue;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2021;14 090 000
+GHQ8;Travel;Grey;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2021;15 190 000
+GHPT;Prime;Black;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2021;16 290 000
+GHPU;High-Tech;White;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2021;17 790 000
+GMB1;Base;White;CRDI;van;MT;H1;hyundai;2020;18 400 000
+GMB2;Base;Silver;CRDI;van;AT;H1;hyundai;2020;19 100 000
+GMB5;Family;White;CRDI;van;AT;H1;hyundai;2020;20 100 000
+GMB6;Business;Brown;CRDI;van;AT;H1;hyundai;2020;20 900 000
+E7HD;Comfort;Black;DOHC 2.0;crossover;AT;Subaru XV;Subaru;2019;13 990 000
+E7JG;Elegance;Grey;DOHC 2.0;crossover;AT;Subaru XV;Subaru;2019;16 190 000
+E7VF;Standart;Green;DOHC 2.0;crossover;AT;Forester;Subaru;2020;14 190 000
+E7BM;Elegance;Blue;DOHC 2.0;crossover;AT;Forester;Subaru;2020;15 490 000
+E7OS;Prestige;Grey;DOHC 2.5;crossover;AT;Forester;Subaru;2020;18 190 000
+E7OI;Sport;Bronze;DOHC 2.5;crossover;AT;Forester;Subaru;2020;18 390 000
+E7OX;Premium;Grey;DOHC 2.5;universal;AT;Outback;Subaru;2021;19 990 000
+E74Q;Touring;Green;DOHC 2.5;universal;AT;Outback;Subaru;2021;22 190 000
+M7P1;Comfort;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;9 090 000
+M7E2;Elite;Grey;turbocharged 1.5;universal;MT;Jolion;Haval;2020;10 090 000
+M7E3;Elite;White;turbocharged 1.5;universal;MT;Jolion;Haval;2020;10 090 000
+M7B2;Elite;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;10 690 000
+M7B3;Elite;Black;turbocharged 1.5;universal;AT;Jolion;Haval;2020;10 690 000
+M7P2;Premium;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;11 690 000
+M7P3;Premium;Grey;turbocharged 1.5;universal;AT;Jolion;Haval;2020;11 690 000
+M7P4;Premium;Bronze;turbocharged 1.5;universal;AT;Jolion;Haval;2020;11 690 000
+BSW1;sDrive 18;White;turbocharged 1.5;crossover;AT;X1;BMW;2018;14 437 500
+BSS1;sDrive 18;Silver;turbocharged 1.5;crossover;AT;X1;BMW;2018;14 437 500
+BSB1;sDrive 18;Black;turbocharged 1.5;crossover;AT;X1;BMW;2018;14 437 500
+BMX1;xDrive 20;White;turbocharged 2.0;crossover;MT;X1;BMW;2019;17 077 500
+BMZ1;xDrive 20;White;turbocharged 2.0;crossover;AT;X1;BMW;2019;17 377 500
+BMW2;220d;White;Turbo 2.0;coupe;AT;2;BMW;2021;17 797 500
+BMG2;220d;Grey;Turbo 2.0;coupe;AT;2;BMW;2021;17 797 500
+BMS2;220d;Silver;Turbo 2.0;coupe;AT;2;BMW;2021;17 797 500
+BMB2;220d;Black;Turbo 2.0;coupe;AT;2;BMW;2021;17 797 500
+BXB3;xDrive 20;Bronze;turbocharged 2.0;crossover;AT;X3;BMW;2020;20 842 500
+BXS3;xDrive 20;Silver;turbocharged 2.0;crossover;AT;X3;BMW;2020;20 842 500
+BXW3;xDrive 20;White;turbocharged 2.0;crossover;AT;X3;BMW;2020;20 842 500
+BWX3;xDrive 30;White;turbocharged 2.0;crossover;AT;X3;BMW;2020;22 732 500
+BBX3;xDrive 30;Black;turbocharged 2.0;crossover;AT;X3;BMW;2020;22 732 500
+BGX3;xDrive 30;Grey;turbocharged 2.0;crossover;AT;X3;BMW;2020;22 732 500
+BSX3;xDrive 30;Silver;turbocharged 2.0;crossover;AT;X3;BMW;2020;22 732 500
