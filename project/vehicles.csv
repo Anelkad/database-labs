@@ -13,7 +13,6 @@ GHPR;Comfort;Blue;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2020;14090000
 GHQ8;Travel;Grey;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2020;15190000
 GHPT;Prime;Black;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2020;16290000
 GHPU;High-Tech;White;Smartstream G 2.5;crossover;AT;SANTA FE;hyundai;2020;17790000
-GMB1;Base;White;CRDI;van;MT;H1;hyundai;2020;18400000
 GMB2;Base;Silver;CRDI;van;AT;H1;hyundai;2020;19100000
 GMB5;Family;White;CRDI;van;AT;H1;hyundai;2020;20100000
 GMB6;Business;Brown;CRDI;van;AT;H1;hyundai;2020;20900000
@@ -26,11 +25,9 @@ E7OI;Sport;Bronze;DOHC 2.5;crossover;AT;Forester;Subaru;2020;18390000
 E7OX;Premium;Grey;DOHC 2.5;universal;AT;Outback;Subaru;2020;19990000
 E74Q;Touring;Green;DOHC 2.5;universal;AT;Outback;Subaru;2020;22190000
 M7P1;Comfort;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;9090000
-M7E2;Elite;Grey;turbocharged 1.5;universal;MT;Jolion;Haval;2020;10090000
 M7B2;Elite;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;10690000
 M7P2;Premium;White;turbocharged 1.5;universal;AT;Jolion;Haval;2020;11690000
 BSW1;sDrive 18;White;turbocharged 1.5;crossover;AT;X1;BMW;2020;14437500
-BMX1;xDrive 20;White;turbocharged 2.0;crossover;MT;X1;BMW;2020;17077500
 BMZ1;xDrive 20;White;turbocharged 2.0;crossover;AT;X1;BMW;2020;17377500
 BMW2;220d;White;Turbo 2.0;coupe;AT;2;BMW;2020;17797500
 BXB3;xDrive 20;Bronze;turbocharged 2.0;crossover;AT;X3;BMW;2020;20842500
@@ -49,3 +46,6 @@ D944;Comfort;Blue;2.0 MP;4-door sedan;AT;K5;Kia Rio;2020;11490000
 G735;Luxe;White;2.0 MP;4-door sedan;AT;K5;Kia Rio;2020;12690000
 G737;Style;Black;2.0 MP;4-door sedan;AT;K5;Kia Rio;2020;13290000
 G720;Prestige;Grey;2.0 MP;4-door sedan;AT;K5;Kia Rio;2020;13390000
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
