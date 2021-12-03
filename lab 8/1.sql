@@ -147,7 +147,7 @@ insert into acc values ('10','1234');
 insert into acc values ('10','12g4');
 --3
 --What is the difference between procedure and function?
-
+--function returns a result, procedure - does not
 --4
 --a
 create or replace procedure a(
