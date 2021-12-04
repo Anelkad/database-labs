@@ -2,9 +2,20 @@
 select EXTRACT(year FROM s.date_of_sale) as year,
        EXTRACT(month FROM s.date_of_sale) as month,
        EXTRACT(week FROM s.date_of_sale) as week,
+       v.brand_name, ci.gender, count(s.vin) as count
+from sales s natural join vehicles v
+inner join client_info ci on s.client_id = ci.id
+group by v.brand_name,year, month,week, ci.gender
+order by year, month,week;
+
+select div(ci.annual_income,1000000)*1000000 as income,
+       EXTRACT(year FROM s.date_of_sale) as year,
+       EXTRACT(month FROM s.date_of_sale) as month,
+       EXTRACT(week FROM s.date_of_sale) as week,
        v.brand_name, count(s.vin) as count
 from sales s natural join vehicles v
-group by v.brand_name,year, month,week
+inner join client_info ci on s.client_id = ci.id
+group by income, v.brand_name, year, month,week
 order by year, month,week;
 
 --2
@@ -12,8 +23,8 @@ create view plant_product as
     select *
     from plants p natural join manufacture  m;
 
-create view client_info as
-    select p.id, p.name, p.surname, s.vin, s.date_of_sale, p.city, p.phone_number
+create or replace view client_info as
+    select p.id, p.name, p.surname, s.vin, s.date_of_sale, p.city, p.phone_number, p.gender, c.annual_income
     from persons p inner join clients c on p.id = c.client_id
     inner join sales s on c.client_id = s.client_id;
 

@@ -1,0 +1,681 @@
+'D25519','hyundai','ACCENT','Active Plus','Silver','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2019,03,18
+'D25510','hyundai','ACCENT','Active Plus','Silver','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2020,08,22
+'D25511','hyundai','ACCENT','Active Plus','Silver','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2021,04,21
+'D25529','hyundai','ACCENT','Active Plus','White','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2019,03,30
+'D25520','hyundai','ACCENT','Active Plus','White','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2020,01,28
+'D25521','hyundai','ACCENT','Active Plus','White','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2021,06,04
+'D25539','hyundai','ACCENT','Active Plus','Blue','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2019,10,13
+'D25530','hyundai','ACCENT','Active Plus','Blue','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2020,09,27
+'D25531','hyundai','ACCENT','Active Plus','Blue','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2021,07,21
+'D25549','hyundai','ACCENT','Active Plus','Black','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2019,04,27
+'D25540','hyundai','ACCENT','Active Plus','Black','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2020,09,13
+'D25541','hyundai','ACCENT','Active Plus','Black','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2021,05,30
+'D25559','hyundai','ACCENT','Active Plus','Brown','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2019,05,04
+'D25550','hyundai','ACCENT','Active Plus','Brown','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2020,09,19
+'D25551','hyundai','ACCENT','Active Plus','Brown','Kappa 1.4 MPI','4-door sedan','МТ',6390000,2021,03,01
+'D26519','hyundai','ACCENT','Comfort','Silver','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2019,07,16
+'D26510','hyundai','ACCENT','Comfort','Silver','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2020,04,18
+'D26511','hyundai','ACCENT','Comfort','Silver','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2021,02,18
+'D26529','hyundai','ACCENT','Comfort','White','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2019,11,03
+'D26520','hyundai','ACCENT','Comfort','White','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2020,07,10
+'D26521','hyundai','ACCENT','Comfort','White','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2021,08,27
+'D26539','hyundai','ACCENT','Comfort','Blue','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2019,11,09
+'D26530','hyundai','ACCENT','Comfort','Blue','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2020,10,23
+'D26531','hyundai','ACCENT','Comfort','Blue','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2021,03,22
+'D26549','hyundai','ACCENT','Comfort','Black','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2019,10,18
+'D26540','hyundai','ACCENT','Comfort','Black','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2020,11,29
+'D26541','hyundai','ACCENT','Comfort','Black','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2021,11,03
+'D26559','hyundai','ACCENT','Comfort','Brown','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2019,08,08
+'D26550','hyundai','ACCENT','Comfort','Brown','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2020,03,12
+'D26551','hyundai','ACCENT','Comfort','Brown','Kappa 1.4 MPI','4-door sedan','AТ',6790000,2021,10,26
+'G23819','hyundai','ACCENT','Elegance','Silver','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2019,07,26
+'G23810','hyundai','ACCENT','Elegance','Silver','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2020,08,03
+'G23811','hyundai','ACCENT','Elegance','Silver','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2021,11,12
+'G23829','hyundai','ACCENT','Elegance','White','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2019,05,13
+'G23820','hyundai','ACCENT','Elegance','White','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2020,02,22
+'G23821','hyundai','ACCENT','Elegance','White','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2021,05,01
+'G23839','hyundai','ACCENT','Elegance','Blue','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2019,10,16
+'G23830','hyundai','ACCENT','Elegance','Blue','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2020,10,22
+'G23831','hyundai','ACCENT','Elegance','Blue','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2021,06,21
+'G23849','hyundai','ACCENT','Elegance','Black','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2019,06,22
+'G23840','hyundai','ACCENT','Elegance','Black','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2020,02,24
+'G23841','hyundai','ACCENT','Elegance','Black','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2021,02,15
+'G23859','hyundai','ACCENT','Elegance','Brown','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2019,09,30
+'G23850','hyundai','ACCENT','Elegance','Brown','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2020,10,21
+'G23851','hyundai','ACCENT','Elegance','Brown','Kappa 1.6 MPI','4-door sedan','AТ',7490000,2021,06,26
+'GARZ19','hyundai','ELANTRA','Start','Silver','Gamma 1.6 MPI','4-door sedan','MT',8390000,2019,02,02
+'GARZ10','hyundai','ELANTRA','Start','Silver','Gamma 1.6 MPI','4-door sedan','MT',8390000,2020,11,03
+'GARZ11','hyundai','ELANTRA','Start','Silver','Gamma 1.6 MPI','4-door sedan','MT',8390000,2021,07,18
+'GARZ29','hyundai','ELANTRA','Start','White','Gamma 1.6 MPI','4-door sedan','MT',8390000,2019,09,23
+'GARZ20','hyundai','ELANTRA','Start','White','Gamma 1.6 MPI','4-door sedan','MT',8390000,2020,08,28
+'GARZ21','hyundai','ELANTRA','Start','White','Gamma 1.6 MPI','4-door sedan','MT',8390000,2021,08,20
+'GARZ39','hyundai','ELANTRA','Start','Blue','Gamma 1.6 MPI','4-door sedan','MT',8390000,2019,05,09
+'GARZ30','hyundai','ELANTRA','Start','Blue','Gamma 1.6 MPI','4-door sedan','MT',8390000,2020,06,25
+'GARZ31','hyundai','ELANTRA','Start','Blue','Gamma 1.6 MPI','4-door sedan','MT',8390000,2021,04,17
+'GARZ49','hyundai','ELANTRA','Start','Black','Gamma 1.6 MPI','4-door sedan','MT',8390000,2019,04,21
+'GARZ40','hyundai','ELANTRA','Start','Black','Gamma 1.6 MPI','4-door sedan','MT',8390000,2020,07,30
+'GARZ41','hyundai','ELANTRA','Start','Black','Gamma 1.6 MPI','4-door sedan','MT',8390000,2021,03,24
+'GARZ59','hyundai','ELANTRA','Start','Brown','Gamma 1.6 MPI','4-door sedan','MT',8390000,2019,07,15
+'GARZ50','hyundai','ELANTRA','Start','Brown','Gamma 1.6 MPI','4-door sedan','MT',8390000,2020,03,26
+'GARZ51','hyundai','ELANTRA','Start','Brown','Gamma 1.6 MPI','4-door sedan','MT',8390000,2021,03,29
+'GAU619','hyundai','ELANTRA','Base','Silver','Gamma 1.6 MPI','4-door sedan','AT',9090000,2019,04,18
+'GAU610','hyundai','ELANTRA','Base','Silver','Gamma 1.6 MPI','4-door sedan','AT',9090000,2020,02,03
+'GAU611','hyundai','ELANTRA','Base','Silver','Gamma 1.6 MPI','4-door sedan','AT',9090000,2021,08,13
+'GAU629','hyundai','ELANTRA','Base','White','Gamma 1.6 MPI','4-door sedan','AT',9090000,2019,01,01
+'GAU620','hyundai','ELANTRA','Base','White','Gamma 1.6 MPI','4-door sedan','AT',9090000,2020,11,29
+'GAU621','hyundai','ELANTRA','Base','White','Gamma 1.6 MPI','4-door sedan','AT',9090000,2021,03,29
+'GAU639','hyundai','ELANTRA','Base','Blue','Gamma 1.6 MPI','4-door sedan','AT',9090000,2019,08,17
+'GAU630','hyundai','ELANTRA','Base','Blue','Gamma 1.6 MPI','4-door sedan','AT',9090000,2020,04,10
+'GAU631','hyundai','ELANTRA','Base','Blue','Gamma 1.6 MPI','4-door sedan','AT',9090000,2021,01,22
+'GAU649','hyundai','ELANTRA','Base','Black','Gamma 1.6 MPI','4-door sedan','AT',9090000,2019,08,11
+'GAU640','hyundai','ELANTRA','Base','Black','Gamma 1.6 MPI','4-door sedan','AT',9090000,2020,03,24
+'GAU641','hyundai','ELANTRA','Base','Black','Gamma 1.6 MPI','4-door sedan','AT',9090000,2021,04,29
+'GAU659','hyundai','ELANTRA','Base','Brown','Gamma 1.6 MPI','4-door sedan','AT',9090000,2019,09,15
+'GAU650','hyundai','ELANTRA','Base','Brown','Gamma 1.6 MPI','4-door sedan','AT',9090000,2020,05,06
+'GAU651','hyundai','ELANTRA','Base','Brown','Gamma 1.6 MPI','4-door sedan','AT',9090000,2021,04,27
+'GAQQ19','hyundai','ELANTRA','Comfort','Silver','Gamma 1.6 MPI','4-door sedan','AT',9590000,2019,02,05
+'GAQQ10','hyundai','ELANTRA','Comfort','Silver','Gamma 1.6 MPI','4-door sedan','AT',9590000,2020,04,26
+'GAQQ11','hyundai','ELANTRA','Comfort','Silver','Gamma 1.6 MPI','4-door sedan','AT',9590000,2021,05,28
+'GAQQ29','hyundai','ELANTRA','Comfort','White','Gamma 1.6 MPI','4-door sedan','AT',9590000,2019,09,16
+'GAQQ20','hyundai','ELANTRA','Comfort','White','Gamma 1.6 MPI','4-door sedan','AT',9590000,2020,02,21
+'GAQQ21','hyundai','ELANTRA','Comfort','White','Gamma 1.6 MPI','4-door sedan','AT',9590000,2021,08,22
+'GAQQ39','hyundai','ELANTRA','Comfort','Blue','Gamma 1.6 MPI','4-door sedan','AT',9590000,2019,04,08
+'GAQQ30','hyundai','ELANTRA','Comfort','Blue','Gamma 1.6 MPI','4-door sedan','AT',9590000,2020,04,16
+'GAQQ31','hyundai','ELANTRA','Comfort','Blue','Gamma 1.6 MPI','4-door sedan','AT',9590000,2021,05,17
+'GAQQ49','hyundai','ELANTRA','Comfort','Black','Gamma 1.6 MPI','4-door sedan','AT',9590000,2019,09,19
+'GAQQ40','hyundai','ELANTRA','Comfort','Black','Gamma 1.6 MPI','4-door sedan','AT',9590000,2020,03,08
+'GAQQ41','hyundai','ELANTRA','Comfort','Black','Gamma 1.6 MPI','4-door sedan','AT',9590000,2021,07,25
+'GAQQ59','hyundai','ELANTRA','Comfort','Brown','Gamma 1.6 MPI','4-door sedan','AT',9590000,2019,04,09
+'GAQQ50','hyundai','ELANTRA','Comfort','Brown','Gamma 1.6 MPI','4-door sedan','AT',9590000,2020,02,17
+'GAQQ51','hyundai','ELANTRA','Comfort','Brown','Gamma 1.6 MPI','4-door sedan','AT',9590000,2021,02,19
+'GAQM19','hyundai','ELANTRA','Elegance','Silver','Gamma 1.6 MPI','4-door sedan','AT',10290000,2019,03,06
+'GAQM10','hyundai','ELANTRA','Elegance','Silver','Gamma 1.6 MPI','4-door sedan','AT',10290000,2020,04,02
+'GAQM11','hyundai','ELANTRA','Elegance','Silver','Gamma 1.6 MPI','4-door sedan','AT',10290000,2021,10,16
+'GAQM29','hyundai','ELANTRA','Elegance','White','Gamma 1.6 MPI','4-door sedan','AT',10290000,2019,03,18
+'GAQM20','hyundai','ELANTRA','Elegance','White','Gamma 1.6 MPI','4-door sedan','AT',10290000,2020,09,20
+'GAQM21','hyundai','ELANTRA','Elegance','White','Gamma 1.6 MPI','4-door sedan','AT',10290000,2021,11,28
+'GAQM39','hyundai','ELANTRA','Elegance','Blue','Gamma 1.6 MPI','4-door sedan','AT',10290000,2019,11,02
+'GAQM30','hyundai','ELANTRA','Elegance','Blue','Gamma 1.6 MPI','4-door sedan','AT',10290000,2020,04,19
+'GAQM31','hyundai','ELANTRA','Elegance','Blue','Gamma 1.6 MPI','4-door sedan','AT',10290000,2021,06,14
+'GAQM49','hyundai','ELANTRA','Elegance','Black','Gamma 1.6 MPI','4-door sedan','AT',10290000,2019,05,28
+'GAQM40','hyundai','ELANTRA','Elegance','Black','Gamma 1.6 MPI','4-door sedan','AT',10290000,2020,08,03
+'GAQM41','hyundai','ELANTRA','Elegance','Black','Gamma 1.6 MPI','4-door sedan','AT',10290000,2021,01,12
+'GAQM59','hyundai','ELANTRA','Elegance','Brown','Gamma 1.6 MPI','4-door sedan','AT',10290000,2019,01,12
+'GAQM50','hyundai','ELANTRA','Elegance','Brown','Gamma 1.6 MPI','4-door sedan','AT',10290000,2020,08,05
+'GAQM51','hyundai','ELANTRA','Elegance','Brown','Gamma 1.6 MPI','4-door sedan','AT',10290000,2021,11,11
+'GAQR19','hyundai','ELANTRA','Style','Silver','Smartstream G2.0','4-door sedan','AT',11290000,2019,08,02
+'GAQR10','hyundai','ELANTRA','Style','Silver','Smartstream G2.0','4-door sedan','AT',11290000,2020,10,18
+'GAQR11','hyundai','ELANTRA','Style','Silver','Smartstream G2.0','4-door sedan','AT',11290000,2021,04,03
+'GAQR29','hyundai','ELANTRA','Style','White','Smartstream G2.0','4-door sedan','AT',11290000,2019,03,25
+'GAQR20','hyundai','ELANTRA','Style','White','Smartstream G2.0','4-door sedan','AT',11290000,2020,03,16
+'GAQR21','hyundai','ELANTRA','Style','White','Smartstream G2.0','4-door sedan','AT',11290000,2021,02,28
+'GAQR39','hyundai','ELANTRA','Style','Blue','Smartstream G2.0','4-door sedan','AT',11290000,2019,01,08
+'GAQR30','hyundai','ELANTRA','Style','Blue','Smartstream G2.0','4-door sedan','AT',11290000,2020,08,24
+'GAQR31','hyundai','ELANTRA','Style','Blue','Smartstream G2.0','4-door sedan','AT',11290000,2021,01,03
+'GAQR49','hyundai','ELANTRA','Style','Black','Smartstream G2.0','4-door sedan','AT',11290000,2019,01,20
+'GAQR40','hyundai','ELANTRA','Style','Black','Smartstream G2.0','4-door sedan','AT',11290000,2020,02,12
+'GAQR41','hyundai','ELANTRA','Style','Black','Smartstream G2.0','4-door sedan','AT',11290000,2021,11,05
+'GAQR59','hyundai','ELANTRA','Style','Brown','Smartstream G2.0','4-door sedan','AT',11290000,2019,10,08
+'GAQR50','hyundai','ELANTRA','Style','Brown','Smartstream G2.0','4-door sedan','AT',11290000,2020,09,26
+'GAQR51','hyundai','ELANTRA','Style','Brown','Smartstream G2.0','4-door sedan','AT',11290000,2021,11,24
+'GAQS19','hyundai','ELANTRA','High-Tech','Silver','Smartstream G2.0','4-door sedan','AT',11790000,2019,10,23
+'GAQS10','hyundai','ELANTRA','High-Tech','Silver','Smartstream G2.0','4-door sedan','AT',11790000,2020,02,22
+'GAQS11','hyundai','ELANTRA','High-Tech','Silver','Smartstream G2.0','4-door sedan','AT',11790000,2021,06,28
+'GAQS29','hyundai','ELANTRA','High-Tech','White','Smartstream G2.0','4-door sedan','AT',11790000,2019,08,04
+'GAQS20','hyundai','ELANTRA','High-Tech','White','Smartstream G2.0','4-door sedan','AT',11790000,2020,03,04
+'GAQS21','hyundai','ELANTRA','High-Tech','White','Smartstream G2.0','4-door sedan','AT',11790000,2021,03,03
+'GAQS39','hyundai','ELANTRA','High-Tech','Blue','Smartstream G2.0','4-door sedan','AT',11790000,2019,01,17
+'GAQS30','hyundai','ELANTRA','High-Tech','Blue','Smartstream G2.0','4-door sedan','AT',11790000,2020,01,21
+'GAQS31','hyundai','ELANTRA','High-Tech','Blue','Smartstream G2.0','4-door sedan','AT',11790000,2021,02,02
+'GAQS49','hyundai','ELANTRA','High-Tech','Black','Smartstream G2.0','4-door sedan','AT',11790000,2019,03,09
+'GAQS40','hyundai','ELANTRA','High-Tech','Black','Smartstream G2.0','4-door sedan','AT',11790000,2020,11,11
+'GAQS41','hyundai','ELANTRA','High-Tech','Black','Smartstream G2.0','4-door sedan','AT',11790000,2021,10,12
+'GAQS59','hyundai','ELANTRA','High-Tech','Brown','Smartstream G2.0','4-door sedan','AT',11790000,2019,10,20
+'GAQS50','hyundai','ELANTRA','High-Tech','Brown','Smartstream G2.0','4-door sedan','AT',11790000,2020,11,16
+'GAQS51','hyundai','ELANTRA','High-Tech','Brown','Smartstream G2.0','4-door sedan','AT',11790000,2021,04,17
+'GAQT19','hyundai','ELANTRA','Luxe','Silver','Smartstream G2.0','4-door sedan','AT',12190000,2019,03,19
+'GAQT10','hyundai','ELANTRA','Luxe','Silver','Smartstream G2.0','4-door sedan','AT',12190000,2020,05,05
+'GAQT11','hyundai','ELANTRA','Luxe','Silver','Smartstream G2.0','4-door sedan','AT',12190000,2021,09,03
+'GAQT29','hyundai','ELANTRA','Luxe','White','Smartstream G2.0','4-door sedan','AT',12190000,2019,10,16
+'GAQT20','hyundai','ELANTRA','Luxe','White','Smartstream G2.0','4-door sedan','AT',12190000,2020,08,29
+'GAQT21','hyundai','ELANTRA','Luxe','White','Smartstream G2.0','4-door sedan','AT',12190000,2021,10,01
+'GAQT39','hyundai','ELANTRA','Luxe','Blue','Smartstream G2.0','4-door sedan','AT',12190000,2019,02,18
+'GAQT30','hyundai','ELANTRA','Luxe','Blue','Smartstream G2.0','4-door sedan','AT',12190000,2020,05,26
+'GAQT31','hyundai','ELANTRA','Luxe','Blue','Smartstream G2.0','4-door sedan','AT',12190000,2021,11,25
+'GAQT49','hyundai','ELANTRA','Luxe','Black','Smartstream G2.0','4-door sedan','AT',12190000,2019,11,15
+'GAQT40','hyundai','ELANTRA','Luxe','Black','Smartstream G2.0','4-door sedan','AT',12190000,2020,04,13
+'GAQT41','hyundai','ELANTRA','Luxe','Black','Smartstream G2.0','4-door sedan','AT',12190000,2021,09,10
+'GAQT59','hyundai','ELANTRA','Luxe','Brown','Smartstream G2.0','4-door sedan','AT',12190000,2019,06,23
+'GAQT50','hyundai','ELANTRA','Luxe','Brown','Smartstream G2.0','4-door sedan','AT',12190000,2020,02,16
+'GAQT51','hyundai','ELANTRA','Luxe','Brown','Smartstream G2.0','4-door sedan','AT',12190000,2021,11,19
+'GHPR19','hyundai','SANTA FE','Comfort','Silver','Smartstream G 2.5','crossover','AT',14090000,2019,02,10
+'GHPR10','hyundai','SANTA FE','Comfort','Silver','Smartstream G 2.5','crossover','AT',14090000,2020,09,08
+'GHPR11','hyundai','SANTA FE','Comfort','Silver','Smartstream G 2.5','crossover','AT',14090000,2021,03,01
+'GHPR29','hyundai','SANTA FE','Comfort','White','Smartstream G 2.5','crossover','AT',14090000,2019,08,07
+'GHPR20','hyundai','SANTA FE','Comfort','White','Smartstream G 2.5','crossover','AT',14090000,2020,05,20
+'GHPR21','hyundai','SANTA FE','Comfort','White','Smartstream G 2.5','crossover','AT',14090000,2021,03,22
+'GHPR39','hyundai','SANTA FE','Comfort','Blue','Smartstream G 2.5','crossover','AT',14090000,2019,02,26
+'GHPR30','hyundai','SANTA FE','Comfort','Blue','Smartstream G 2.5','crossover','AT',14090000,2020,08,09
+'GHPR31','hyundai','SANTA FE','Comfort','Blue','Smartstream G 2.5','crossover','AT',14090000,2021,04,02
+'GHPR49','hyundai','SANTA FE','Comfort','Black','Smartstream G 2.5','crossover','AT',14090000,2019,07,08
+'GHPR40','hyundai','SANTA FE','Comfort','Black','Smartstream G 2.5','crossover','AT',14090000,2020,06,13
+'GHPR41','hyundai','SANTA FE','Comfort','Black','Smartstream G 2.5','crossover','AT',14090000,2021,03,30
+'GHPR59','hyundai','SANTA FE','Comfort','Brown','Smartstream G 2.5','crossover','AT',14090000,2019,02,14
+'GHPR50','hyundai','SANTA FE','Comfort','Brown','Smartstream G 2.5','crossover','AT',14090000,2020,06,20
+'GHPR51','hyundai','SANTA FE','Comfort','Brown','Smartstream G 2.5','crossover','AT',14090000,2021,03,23
+'GHQ819','hyundai','SANTA FE','Travel','Silver','Smartstream G 2.5','crossover','AT',15190000,2019,10,05
+'GHQ810','hyundai','SANTA FE','Travel','Silver','Smartstream G 2.5','crossover','AT',15190000,2020,07,06
+'GHQ811','hyundai','SANTA FE','Travel','Silver','Smartstream G 2.5','crossover','AT',15190000,2021,11,03
+'GHQ829','hyundai','SANTA FE','Travel','White','Smartstream G 2.5','crossover','AT',15190000,2019,01,26
+'GHQ820','hyundai','SANTA FE','Travel','White','Smartstream G 2.5','crossover','AT',15190000,2020,11,24
+'GHQ821','hyundai','SANTA FE','Travel','White','Smartstream G 2.5','crossover','AT',15190000,2021,10,16
+'GHQ839','hyundai','SANTA FE','Travel','Blue','Smartstream G 2.5','crossover','AT',15190000,2019,08,17
+'GHQ830','hyundai','SANTA FE','Travel','Blue','Smartstream G 2.5','crossover','AT',15190000,2020,02,05
+'GHQ831','hyundai','SANTA FE','Travel','Blue','Smartstream G 2.5','crossover','AT',15190000,2021,11,10
+'GHQ849','hyundai','SANTA FE','Travel','Black','Smartstream G 2.5','crossover','AT',15190000,2019,10,20
+'GHQ840','hyundai','SANTA FE','Travel','Black','Smartstream G 2.5','crossover','AT',15190000,2020,01,05
+'GHQ841','hyundai','SANTA FE','Travel','Black','Smartstream G 2.5','crossover','AT',15190000,2021,01,29
+'GHQ859','hyundai','SANTA FE','Travel','Brown','Smartstream G 2.5','crossover','AT',15190000,2019,05,06
+'GHQ850','hyundai','SANTA FE','Travel','Brown','Smartstream G 2.5','crossover','AT',15190000,2020,10,06
+'GHQ851','hyundai','SANTA FE','Travel','Brown','Smartstream G 2.5','crossover','AT',15190000,2021,01,01
+'GHPT19','hyundai','SANTA FE','Prime','Silver','Smartstream G 2.5','crossover','AT',16290000,2019,08,26
+'GHPT10','hyundai','SANTA FE','Prime','Silver','Smartstream G 2.5','crossover','AT',16290000,2020,11,29
+'GHPT11','hyundai','SANTA FE','Prime','Silver','Smartstream G 2.5','crossover','AT',16290000,2021,07,18
+'GHPT29','hyundai','SANTA FE','Prime','White','Smartstream G 2.5','crossover','AT',16290000,2019,03,16
+'GHPT20','hyundai','SANTA FE','Prime','White','Smartstream G 2.5','crossover','AT',16290000,2020,09,27
+'GHPT21','hyundai','SANTA FE','Prime','White','Smartstream G 2.5','crossover','AT',16290000,2021,04,08
+'GHPT39','hyundai','SANTA FE','Prime','Blue','Smartstream G 2.5','crossover','AT',16290000,2019,09,04
+'GHPT30','hyundai','SANTA FE','Prime','Blue','Smartstream G 2.5','crossover','AT',16290000,2020,09,13
+'GHPT31','hyundai','SANTA FE','Prime','Blue','Smartstream G 2.5','crossover','AT',16290000,2021,11,13
+'GHPT49','hyundai','SANTA FE','Prime','Black','Smartstream G 2.5','crossover','AT',16290000,2019,04,29
+'GHPT40','hyundai','SANTA FE','Prime','Black','Smartstream G 2.5','crossover','AT',16290000,2020,05,06
+'GHPT41','hyundai','SANTA FE','Prime','Black','Smartstream G 2.5','crossover','AT',16290000,2021,11,11
+'GHPT59','hyundai','SANTA FE','Prime','Brown','Smartstream G 2.5','crossover','AT',16290000,2019,03,11
+'GHPT50','hyundai','SANTA FE','Prime','Brown','Smartstream G 2.5','crossover','AT',16290000,2020,06,25
+'GHPT51','hyundai','SANTA FE','Prime','Brown','Smartstream G 2.5','crossover','AT',16290000,2021,05,15
+'GHPU19','hyundai','SANTA FE','High-Tech','Silver','Smartstream G 2.5','crossover','AT',17790000,2019,09,22
+'GHPU10','hyundai','SANTA FE','High-Tech','Silver','Smartstream G 2.5','crossover','AT',17790000,2020,02,27
+'GHPU11','hyundai','SANTA FE','High-Tech','Silver','Smartstream G 2.5','crossover','AT',17790000,2021,03,09
+'GHPU29','hyundai','SANTA FE','High-Tech','White','Smartstream G 2.5','crossover','AT',17790000,2019,07,01
+'GHPU20','hyundai','SANTA FE','High-Tech','White','Smartstream G 2.5','crossover','AT',17790000,2020,11,29
+'GHPU21','hyundai','SANTA FE','High-Tech','White','Smartstream G 2.5','crossover','AT',17790000,2021,04,09
+'GHPU39','hyundai','SANTA FE','High-Tech','Blue','Smartstream G 2.5','crossover','AT',17790000,2019,03,12
+'GHPU30','hyundai','SANTA FE','High-Tech','Blue','Smartstream G 2.5','crossover','AT',17790000,2020,10,27
+'GHPU31','hyundai','SANTA FE','High-Tech','Blue','Smartstream G 2.5','crossover','AT',17790000,2021,10,11
+'GHPU49','hyundai','SANTA FE','High-Tech','Black','Smartstream G 2.5','crossover','AT',17790000,2019,05,12
+'GHPU40','hyundai','SANTA FE','High-Tech','Black','Smartstream G 2.5','crossover','AT',17790000,2020,05,24
+'GHPU41','hyundai','SANTA FE','High-Tech','Black','Smartstream G 2.5','crossover','AT',17790000,2021,05,19
+'GHPU59','hyundai','SANTA FE','High-Tech','Brown','Smartstream G 2.5','crossover','AT',17790000,2019,05,04
+'GHPU50','hyundai','SANTA FE','High-Tech','Brown','Smartstream G 2.5','crossover','AT',17790000,2020,11,10
+'GHPU51','hyundai','SANTA FE','High-Tech','Brown','Smartstream G 2.5','crossover','AT',17790000,2021,03,16
+'GMB219','hyundai','H1','Base','Silver','CRDI','van','AT',19100000,2019,11,22
+'GMB210','hyundai','H1','Base','Silver','CRDI','van','AT',19100000,2020,06,09
+'GMB211','hyundai','H1','Base','Silver','CRDI','van','AT',19100000,2021,04,30
+'GMB229','hyundai','H1','Base','White','CRDI','van','AT',19100000,2019,05,02
+'GMB220','hyundai','H1','Base','White','CRDI','van','AT',19100000,2020,08,08
+'GMB221','hyundai','H1','Base','White','CRDI','van','AT',19100000,2021,06,18
+'GMB239','hyundai','H1','Base','Blue','CRDI','van','AT',19100000,2019,06,08
+'GMB230','hyundai','H1','Base','Blue','CRDI','van','AT',19100000,2020,01,06
+'GMB231','hyundai','H1','Base','Blue','CRDI','van','AT',19100000,2021,01,26
+'GMB249','hyundai','H1','Base','Black','CRDI','van','AT',19100000,2019,04,02
+'GMB240','hyundai','H1','Base','Black','CRDI','van','AT',19100000,2020,08,25
+'GMB241','hyundai','H1','Base','Black','CRDI','van','AT',19100000,2021,01,02
+'GMB259','hyundai','H1','Base','Brown','CRDI','van','AT',19100000,2019,07,15
+'GMB250','hyundai','H1','Base','Brown','CRDI','van','AT',19100000,2020,04,02
+'GMB251','hyundai','H1','Base','Brown','CRDI','van','AT',19100000,2021,09,30
+'GMB519','hyundai','H1','Family','Silver','CRDI','van','AT',20100000,2019,05,21
+'GMB510','hyundai','H1','Family','Silver','CRDI','van','AT',20100000,2020,08,05
+'GMB511','hyundai','H1','Family','Silver','CRDI','van','AT',20100000,2021,11,04
+'GMB529','hyundai','H1','Family','White','CRDI','van','AT',20100000,2019,08,04
+'GMB520','hyundai','H1','Family','White','CRDI','van','AT',20100000,2020,09,20
+'GMB521','hyundai','H1','Family','White','CRDI','van','AT',20100000,2021,05,12
+'GMB539','hyundai','H1','Family','Blue','CRDI','van','AT',20100000,2019,08,08
+'GMB530','hyundai','H1','Family','Blue','CRDI','van','AT',20100000,2020,03,17
+'GMB531','hyundai','H1','Family','Blue','CRDI','van','AT',20100000,2021,03,30
+'GMB549','hyundai','H1','Family','Black','CRDI','van','AT',20100000,2019,09,05
+'GMB540','hyundai','H1','Family','Black','CRDI','van','AT',20100000,2020,11,15
+'GMB541','hyundai','H1','Family','Black','CRDI','van','AT',20100000,2021,06,06
+'GMB559','hyundai','H1','Family','Brown','CRDI','van','AT',20100000,2019,06,29
+'GMB550','hyundai','H1','Family','Brown','CRDI','van','AT',20100000,2020,07,26
+'GMB551','hyundai','H1','Family','Brown','CRDI','van','AT',20100000,2021,02,03
+'GMB619','hyundai','H1','Business','Silver','CRDI','van','AT',20900000,2019,06,12
+'GMB610','hyundai','H1','Business','Silver','CRDI','van','AT',20900000,2020,03,03
+'GMB611','hyundai','H1','Business','Silver','CRDI','van','AT',20900000,2021,05,04
+'GMB629','hyundai','H1','Business','White','CRDI','van','AT',20900000,2019,04,17
+'GMB620','hyundai','H1','Business','White','CRDI','van','AT',20900000,2020,02,16
+'GMB621','hyundai','H1','Business','White','CRDI','van','AT',20900000,2021,01,21
+'GMB639','hyundai','H1','Business','Blue','CRDI','van','AT',20900000,2019,11,24
+'GMB630','hyundai','H1','Business','Blue','CRDI','van','AT',20900000,2020,08,12
+'GMB631','hyundai','H1','Business','Blue','CRDI','van','AT',20900000,2021,11,14
+'GMB649','hyundai','H1','Business','Black','CRDI','van','AT',20900000,2019,10,08
+'GMB640','hyundai','H1','Business','Black','CRDI','van','AT',20900000,2020,06,02
+'GMB641','hyundai','H1','Business','Black','CRDI','van','AT',20900000,2021,03,18
+'GMB659','hyundai','H1','Business','Brown','CRDI','van','AT',20900000,2019,08,08
+'GMB650','hyundai','H1','Business','Brown','CRDI','van','AT',20900000,2020,05,02
+'GMB651','hyundai','H1','Business','Brown','CRDI','van','AT',20900000,2021,03,15
+'E7HD19','Subaru','Subaru XV','Comfort','Green','DOHC 2.0','crossover','AT',13990000,2019,06,29
+'E7HD10','Subaru','Subaru XV','Comfort','Green','DOHC 2.0','crossover','AT',13990000,2020,05,29
+'E7HD11','Subaru','Subaru XV','Comfort','Green','DOHC 2.0','crossover','AT',13990000,2021,05,07
+'E7HD29','Subaru','Subaru XV','Comfort','Grey','DOHC 2.0','crossover','AT',13990000,2019,06,30
+'E7HD20','Subaru','Subaru XV','Comfort','Grey','DOHC 2.0','crossover','AT',13990000,2020,05,10
+'E7HD21','Subaru','Subaru XV','Comfort','Grey','DOHC 2.0','crossover','AT',13990000,2021,09,18
+'E7HD39','Subaru','Subaru XV','Comfort','Black','DOHC 2.0','crossover','AT',13990000,2019,11,25
+'E7HD30','Subaru','Subaru XV','Comfort','Black','DOHC 2.0','crossover','AT',13990000,2020,03,07
+'E7HD31','Subaru','Subaru XV','Comfort','Black','DOHC 2.0','crossover','AT',13990000,2021,10,08
+'E7HD49','Subaru','Subaru XV','Comfort','Blue','DOHC 2.0','crossover','AT',13990000,2019,10,09
+'E7HD40','Subaru','Subaru XV','Comfort','Blue','DOHC 2.0','crossover','AT',13990000,2020,04,25
+'E7HD41','Subaru','Subaru XV','Comfort','Blue','DOHC 2.0','crossover','AT',13990000,2021,10,24
+'E7HD59','Subaru','Subaru XV','Comfort','Bronze','DOHC 2.0','crossover','AT',13990000,2019,01,05
+'E7HD50','Subaru','Subaru XV','Comfort','Bronze','DOHC 2.0','crossover','AT',13990000,2020,11,13
+'E7HD51','Subaru','Subaru XV','Comfort','Bronze','DOHC 2.0','crossover','AT',13990000,2021,03,19
+'E7JG19','Subaru','Subaru XV','Elegance','Green','DOHC 2.0','crossover','AT',16190000,2019,02,28
+'E7JG10','Subaru','Subaru XV','Elegance','Green','DOHC 2.0','crossover','AT',16190000,2020,03,05
+'E7JG11','Subaru','Subaru XV','Elegance','Green','DOHC 2.0','crossover','AT',16190000,2021,09,27
+'E7JG29','Subaru','Subaru XV','Elegance','Grey','DOHC 2.0','crossover','AT',16190000,2019,11,19
+'E7JG20','Subaru','Subaru XV','Elegance','Grey','DOHC 2.0','crossover','AT',16190000,2020,04,03
+'E7JG21','Subaru','Subaru XV','Elegance','Grey','DOHC 2.0','crossover','AT',16190000,2021,08,13
+'E7JG39','Subaru','Subaru XV','Elegance','Black','DOHC 2.0','crossover','AT',16190000,2019,07,10
+'E7JG30','Subaru','Subaru XV','Elegance','Black','DOHC 2.0','crossover','AT',16190000,2020,04,02
+'E7JG31','Subaru','Subaru XV','Elegance','Black','DOHC 2.0','crossover','AT',16190000,2021,10,23
+'E7JG49','Subaru','Subaru XV','Elegance','Blue','DOHC 2.0','crossover','AT',16190000,2019,07,13
+'E7JG40','Subaru','Subaru XV','Elegance','Blue','DOHC 2.0','crossover','AT',16190000,2020,05,19
+'E7JG41','Subaru','Subaru XV','Elegance','Blue','DOHC 2.0','crossover','AT',16190000,2021,06,10
+'E7JG59','Subaru','Subaru XV','Elegance','Bronze','DOHC 2.0','crossover','AT',16190000,2019,06,18
+'E7JG50','Subaru','Subaru XV','Elegance','Bronze','DOHC 2.0','crossover','AT',16190000,2020,04,11
+'E7JG51','Subaru','Subaru XV','Elegance','Bronze','DOHC 2.0','crossover','AT',16190000,2021,09,30
+'E7VF19','Subaru','Forester','Standart','Green','DOHC 2.0','crossover','AT',14190000,2019,04,08
+'E7VF10','Subaru','Forester','Standart','Green','DOHC 2.0','crossover','AT',14190000,2020,07,05
+'E7VF11','Subaru','Forester','Standart','Green','DOHC 2.0','crossover','AT',14190000,2021,04,19
+'E7VF29','Subaru','Forester','Standart','Grey','DOHC 2.0','crossover','AT',14190000,2019,08,25
+'E7VF20','Subaru','Forester','Standart','Grey','DOHC 2.0','crossover','AT',14190000,2020,10,21
+'E7VF21','Subaru','Forester','Standart','Grey','DOHC 2.0','crossover','AT',14190000,2021,06,11
+'E7VF39','Subaru','Forester','Standart','Black','DOHC 2.0','crossover','AT',14190000,2019,04,26
+'E7VF30','Subaru','Forester','Standart','Black','DOHC 2.0','crossover','AT',14190000,2020,02,25
+'E7VF31','Subaru','Forester','Standart','Black','DOHC 2.0','crossover','AT',14190000,2021,08,06
+'E7VF49','Subaru','Forester','Standart','Blue','DOHC 2.0','crossover','AT',14190000,2019,04,27
+'E7VF40','Subaru','Forester','Standart','Blue','DOHC 2.0','crossover','AT',14190000,2020,05,11
+'E7VF41','Subaru','Forester','Standart','Blue','DOHC 2.0','crossover','AT',14190000,2021,09,17
+'E7VF59','Subaru','Forester','Standart','Bronze','DOHC 2.0','crossover','AT',14190000,2019,01,20
+'E7VF50','Subaru','Forester','Standart','Bronze','DOHC 2.0','crossover','AT',14190000,2020,08,02
+'E7VF51','Subaru','Forester','Standart','Bronze','DOHC 2.0','crossover','AT',14190000,2021,10,04
+'E7BM19','Subaru','Forester','Elegance','Green','DOHC 2.0','crossover','AT',15490000,2019,02,22
+'E7BM10','Subaru','Forester','Elegance','Green','DOHC 2.0','crossover','AT',15490000,2020,04,30
+'E7BM11','Subaru','Forester','Elegance','Green','DOHC 2.0','crossover','AT',15490000,2021,01,20
+'E7BM29','Subaru','Forester','Elegance','Grey','DOHC 2.0','crossover','AT',15490000,2019,09,16
+'E7BM20','Subaru','Forester','Elegance','Grey','DOHC 2.0','crossover','AT',15490000,2020,02,26
+'E7BM21','Subaru','Forester','Elegance','Grey','DOHC 2.0','crossover','AT',15490000,2021,01,25
+'E7BM39','Subaru','Forester','Elegance','Black','DOHC 2.0','crossover','AT',15490000,2019,07,29
+'E7BM30','Subaru','Forester','Elegance','Black','DOHC 2.0','crossover','AT',15490000,2020,02,01
+'E7BM31','Subaru','Forester','Elegance','Black','DOHC 2.0','crossover','AT',15490000,2021,06,11
+'E7BM49','Subaru','Forester','Elegance','Blue','DOHC 2.0','crossover','AT',15490000,2019,05,30
+'E7BM40','Subaru','Forester','Elegance','Blue','DOHC 2.0','crossover','AT',15490000,2020,08,27
+'E7BM41','Subaru','Forester','Elegance','Blue','DOHC 2.0','crossover','AT',15490000,2021,11,12
+'E7BM59','Subaru','Forester','Elegance','Bronze','DOHC 2.0','crossover','AT',15490000,2019,04,14
+'E7BM50','Subaru','Forester','Elegance','Bronze','DOHC 2.0','crossover','AT',15490000,2020,09,30
+'E7BM51','Subaru','Forester','Elegance','Bronze','DOHC 2.0','crossover','AT',15490000,2021,11,10
+'E7OS19','Subaru','Forester','Prestige','Green','DOHC 2.5','crossover','AT',18190000,2019,09,28
+'E7OS10','Subaru','Forester','Prestige','Green','DOHC 2.5','crossover','AT',18190000,2020,08,11
+'E7OS11','Subaru','Forester','Prestige','Green','DOHC 2.5','crossover','AT',18190000,2021,06,09
+'E7OS29','Subaru','Forester','Prestige','Grey','DOHC 2.5','crossover','AT',18190000,2019,10,18
+'E7OS20','Subaru','Forester','Prestige','Grey','DOHC 2.5','crossover','AT',18190000,2020,09,22
+'E7OS21','Subaru','Forester','Prestige','Grey','DOHC 2.5','crossover','AT',18190000,2021,05,27
+'E7OS39','Subaru','Forester','Prestige','Black','DOHC 2.5','crossover','AT',18190000,2019,03,22
+'E7OS30','Subaru','Forester','Prestige','Black','DOHC 2.5','crossover','AT',18190000,2020,04,07
+'E7OS31','Subaru','Forester','Prestige','Black','DOHC 2.5','crossover','AT',18190000,2021,08,08
+'E7OS49','Subaru','Forester','Prestige','Blue','DOHC 2.5','crossover','AT',18190000,2019,09,17
+'E7OS40','Subaru','Forester','Prestige','Blue','DOHC 2.5','crossover','AT',18190000,2020,07,15
+'E7OS41','Subaru','Forester','Prestige','Blue','DOHC 2.5','crossover','AT',18190000,2021,10,26
+'E7OS59','Subaru','Forester','Prestige','Bronze','DOHC 2.5','crossover','AT',18190000,2019,02,23
+'E7OS50','Subaru','Forester','Prestige','Bronze','DOHC 2.5','crossover','AT',18190000,2020,06,25
+'E7OS51','Subaru','Forester','Prestige','Bronze','DOHC 2.5','crossover','AT',18190000,2021,04,24
+'E7OI19','Subaru','Forester','Sport','Green','DOHC 2.5','crossover','AT',18390000,2019,10,30
+'E7OI10','Subaru','Forester','Sport','Green','DOHC 2.5','crossover','AT',18390000,2020,07,18
+'E7OI11','Subaru','Forester','Sport','Green','DOHC 2.5','crossover','AT',18390000,2021,06,13
+'E7OI29','Subaru','Forester','Sport','Grey','DOHC 2.5','crossover','AT',18390000,2019,05,28
+'E7OI20','Subaru','Forester','Sport','Grey','DOHC 2.5','crossover','AT',18390000,2020,04,06
+'E7OI21','Subaru','Forester','Sport','Grey','DOHC 2.5','crossover','AT',18390000,2021,09,18
+'E7OI39','Subaru','Forester','Sport','Black','DOHC 2.5','crossover','AT',18390000,2019,08,03
+'E7OI30','Subaru','Forester','Sport','Black','DOHC 2.5','crossover','AT',18390000,2020,02,03
+'E7OI31','Subaru','Forester','Sport','Black','DOHC 2.5','crossover','AT',18390000,2021,05,23
+'E7OI49','Subaru','Forester','Sport','Blue','DOHC 2.5','crossover','AT',18390000,2019,01,07
+'E7OI40','Subaru','Forester','Sport','Blue','DOHC 2.5','crossover','AT',18390000,2020,08,02
+'E7OI41','Subaru','Forester','Sport','Blue','DOHC 2.5','crossover','AT',18390000,2021,08,12
+'E7OI59','Subaru','Forester','Sport','Bronze','DOHC 2.5','crossover','AT',18390000,2019,08,14
+'E7OI50','Subaru','Forester','Sport','Bronze','DOHC 2.5','crossover','AT',18390000,2020,04,05
+'E7OI51','Subaru','Forester','Sport','Bronze','DOHC 2.5','crossover','AT',18390000,2021,02,10
+'E7OX19','Subaru','Outback','Premium','Green','DOHC 2.5','universal','AT',19990000,2019,01,14
+'E7OX10','Subaru','Outback','Premium','Green','DOHC 2.5','universal','AT',19990000,2020,11,26
+'E7OX11','Subaru','Outback','Premium','Green','DOHC 2.5','universal','AT',19990000,2021,04,29
+'E7OX29','Subaru','Outback','Premium','Grey','DOHC 2.5','universal','AT',19990000,2019,05,16
+'E7OX20','Subaru','Outback','Premium','Grey','DOHC 2.5','universal','AT',19990000,2020,04,08
+'E7OX21','Subaru','Outback','Premium','Grey','DOHC 2.5','universal','AT',19990000,2021,01,19
+'E7OX39','Subaru','Outback','Premium','Black','DOHC 2.5','universal','AT',19990000,2019,02,10
+'E7OX30','Subaru','Outback','Premium','Black','DOHC 2.5','universal','AT',19990000,2020,10,26
+'E7OX31','Subaru','Outback','Premium','Black','DOHC 2.5','universal','AT',19990000,2021,06,21
+'E7OX49','Subaru','Outback','Premium','Blue','DOHC 2.5','universal','AT',19990000,2019,04,28
+'E7OX40','Subaru','Outback','Premium','Blue','DOHC 2.5','universal','AT',19990000,2020,07,19
+'E7OX41','Subaru','Outback','Premium','Blue','DOHC 2.5','universal','AT',19990000,2021,04,11
+'E7OX59','Subaru','Outback','Premium','Bronze','DOHC 2.5','universal','AT',19990000,2019,04,13
+'E7OX50','Subaru','Outback','Premium','Bronze','DOHC 2.5','universal','AT',19990000,2020,05,07
+'E7OX51','Subaru','Outback','Premium','Bronze','DOHC 2.5','universal','AT',19990000,2021,08,20
+'E74Q19','Subaru','Outback','Touring','Green','DOHC 2.5','universal','AT',22190000,2019,04,21
+'E74Q10','Subaru','Outback','Touring','Green','DOHC 2.5','universal','AT',22190000,2020,03,11
+'E74Q11','Subaru','Outback','Touring','Green','DOHC 2.5','universal','AT',22190000,2021,07,23
+'E74Q29','Subaru','Outback','Touring','Grey','DOHC 2.5','universal','AT',22190000,2019,01,22
+'E74Q20','Subaru','Outback','Touring','Grey','DOHC 2.5','universal','AT',22190000,2020,10,09
+'E74Q21','Subaru','Outback','Touring','Grey','DOHC 2.5','universal','AT',22190000,2021,01,20
+'E74Q39','Subaru','Outback','Touring','Black','DOHC 2.5','universal','AT',22190000,2019,03,28
+'E74Q30','Subaru','Outback','Touring','Black','DOHC 2.5','universal','AT',22190000,2020,03,17
+'E74Q31','Subaru','Outback','Touring','Black','DOHC 2.5','universal','AT',22190000,2021,04,30
+'E74Q49','Subaru','Outback','Touring','Blue','DOHC 2.5','universal','AT',22190000,2019,06,08
+'E74Q40','Subaru','Outback','Touring','Blue','DOHC 2.5','universal','AT',22190000,2020,02,02
+'E74Q41','Subaru','Outback','Touring','Blue','DOHC 2.5','universal','AT',22190000,2021,01,06
+'E74Q59','Subaru','Outback','Touring','Bronze','DOHC 2.5','universal','AT',22190000,2019,02,10
+'E74Q50','Subaru','Outback','Touring','Bronze','DOHC 2.5','universal','AT',22190000,2020,06,14
+'E74Q51','Subaru','Outback','Touring','Bronze','DOHC 2.5','universal','AT',22190000,2021,01,21
+'M7P119','Haval','Jolion','Comfort','White','turbocharged 1.5','universal','AT',9090000,2019,02,09
+'M7P110','Haval','Jolion','Comfort','White','turbocharged 1.5','universal','AT',9090000,2020,11,19
+'M7P111','Haval','Jolion','Comfort','White','turbocharged 1.5','universal','AT',9090000,2021,02,07
+'M7P129','Haval','Jolion','Comfort','Grey','turbocharged 1.5','universal','AT',9090000,2019,07,08
+'M7P120','Haval','Jolion','Comfort','Grey','turbocharged 1.5','universal','AT',9090000,2020,04,22
+'M7P121','Haval','Jolion','Comfort','Grey','turbocharged 1.5','universal','AT',9090000,2021,06,19
+'M7P139','Haval','Jolion','Comfort','Black','turbocharged 1.5','universal','AT',9090000,2019,05,05
+'M7P130','Haval','Jolion','Comfort','Black','turbocharged 1.5','universal','AT',9090000,2020,07,10
+'M7P131','Haval','Jolion','Comfort','Black','turbocharged 1.5','universal','AT',9090000,2021,02,06
+'M7P149','Haval','Jolion','Comfort','Bronze','turbocharged 1.5','universal','AT',9090000,2019,04,12
+'M7P140','Haval','Jolion','Comfort','Bronze','turbocharged 1.5','universal','AT',9090000,2020,08,09
+'M7P141','Haval','Jolion','Comfort','Bronze','turbocharged 1.5','universal','AT',9090000,2021,05,12
+'M7B219','Haval','Jolion','Elite','White','turbocharged 1.5','universal','AT',10690000,2019,05,07
+'M7B210','Haval','Jolion','Elite','White','turbocharged 1.5','universal','AT',10690000,2020,01,19
+'M7B211','Haval','Jolion','Elite','White','turbocharged 1.5','universal','AT',10690000,2021,11,12
+'M7B229','Haval','Jolion','Elite','Grey','turbocharged 1.5','universal','AT',10690000,2019,02,16
+'M7B220','Haval','Jolion','Elite','Grey','turbocharged 1.5','universal','AT',10690000,2020,06,21
+'M7B221','Haval','Jolion','Elite','Grey','turbocharged 1.5','universal','AT',10690000,2021,10,11
+'M7B239','Haval','Jolion','Elite','Black','turbocharged 1.5','universal','AT',10690000,2019,09,23
+'M7B230','Haval','Jolion','Elite','Black','turbocharged 1.5','universal','AT',10690000,2020,07,15
+'M7B231','Haval','Jolion','Elite','Black','turbocharged 1.5','universal','AT',10690000,2021,08,11
+'M7B249','Haval','Jolion','Elite','Bronze','turbocharged 1.5','universal','AT',10690000,2019,09,26
+'M7B240','Haval','Jolion','Elite','Bronze','turbocharged 1.5','universal','AT',10690000,2020,07,19
+'M7B241','Haval','Jolion','Elite','Bronze','turbocharged 1.5','universal','AT',10690000,2021,11,20
+'M7P219','Haval','Jolion','Premium','White','turbocharged 1.5','universal','AT',11690000,2019,02,16
+'M7P210','Haval','Jolion','Premium','White','turbocharged 1.5','universal','AT',11690000,2020,05,06
+'M7P211','Haval','Jolion','Premium','White','turbocharged 1.5','universal','AT',11690000,2021,06,30
+'M7P229','Haval','Jolion','Premium','Grey','turbocharged 1.5','universal','AT',11690000,2019,08,08
+'M7P220','Haval','Jolion','Premium','Grey','turbocharged 1.5','universal','AT',11690000,2020,02,02
+'M7P221','Haval','Jolion','Premium','Grey','turbocharged 1.5','universal','AT',11690000,2021,04,02
+'M7P239','Haval','Jolion','Premium','Black','turbocharged 1.5','universal','AT',11690000,2019,02,04
+'M7P230','Haval','Jolion','Premium','Black','turbocharged 1.5','universal','AT',11690000,2020,11,17
+'M7P231','Haval','Jolion','Premium','Black','turbocharged 1.5','universal','AT',11690000,2021,02,25
+'M7P249','Haval','Jolion','Premium','Bronze','turbocharged 1.5','universal','AT',11690000,2019,10,15
+'M7P240','Haval','Jolion','Premium','Bronze','turbocharged 1.5','universal','AT',11690000,2020,05,26
+'M7P241','Haval','Jolion','Premium','Bronze','turbocharged 1.5','universal','AT',11690000,2021,06,04
+'BSW119','BMW','X1','sDrive 18','White','turbocharged 1.5','crossover','AT',14437500,2019,05,05
+'BSW110','BMW','X1','sDrive 18','White','turbocharged 1.5','crossover','AT',14437500,2020,09,19
+'BSW111','BMW','X1','sDrive 18','White','turbocharged 1.5','crossover','AT',14437500,2021,09,26
+'BSW129','BMW','X1','sDrive 18','Silver','turbocharged 1.5','crossover','AT',14437500,2019,07,05
+'BSW120','BMW','X1','sDrive 18','Silver','turbocharged 1.5','crossover','AT',14437500,2020,09,09
+'BSW121','BMW','X1','sDrive 18','Silver','turbocharged 1.5','crossover','AT',14437500,2021,02,22
+'BSW139','BMW','X1','sDrive 18','Black','turbocharged 1.5','crossover','AT',14437500,2019,10,20
+'BSW130','BMW','X1','sDrive 18','Black','turbocharged 1.5','crossover','AT',14437500,2020,09,08
+'BSW131','BMW','X1','sDrive 18','Black','turbocharged 1.5','crossover','AT',14437500,2021,07,03
+'BSW149','BMW','X1','sDrive 18','Grey','turbocharged 1.5','crossover','AT',14437500,2019,05,28
+'BSW140','BMW','X1','sDrive 18','Grey','turbocharged 1.5','crossover','AT',14437500,2020,10,02
+'BSW141','BMW','X1','sDrive 18','Grey','turbocharged 1.5','crossover','AT',14437500,2021,08,16
+'BMZ119','BMW','X1','xDrive 20','White','turbocharged 2.0','crossover','AT',17377500,2019,05,08
+'BMZ110','BMW','X1','xDrive 20','White','turbocharged 2.0','crossover','AT',17377500,2020,08,19
+'BMZ111','BMW','X1','xDrive 20','White','turbocharged 2.0','crossover','AT',17377500,2021,03,28
+'BMZ129','BMW','X1','xDrive 20','Silver','turbocharged 2.0','crossover','AT',17377500,2019,11,24
+'BMZ120','BMW','X1','xDrive 20','Silver','turbocharged 2.0','crossover','AT',17377500,2020,04,08
+'BMZ121','BMW','X1','xDrive 20','Silver','turbocharged 2.0','crossover','AT',17377500,2021,05,21
+'BMZ139','BMW','X1','xDrive 20','Black','turbocharged 2.0','crossover','AT',17377500,2019,02,23
+'BMZ130','BMW','X1','xDrive 20','Black','turbocharged 2.0','crossover','AT',17377500,2020,11,10
+'BMZ131','BMW','X1','xDrive 20','Black','turbocharged 2.0','crossover','AT',17377500,2021,10,18
+'BMZ149','BMW','X1','xDrive 20','Grey','turbocharged 2.0','crossover','AT',17377500,2019,11,10
+'BMZ140','BMW','X1','xDrive 20','Grey','turbocharged 2.0','crossover','AT',17377500,2020,05,23
+'BMZ141','BMW','X1','xDrive 20','Grey','turbocharged 2.0','crossover','AT',17377500,2021,07,19
+'BMW219','BMW','2','220d','White','Turbo 2.0','coupe','AT',17797500,2019,03,05
+'BMW210','BMW','2','220d','White','Turbo 2.0','coupe','AT',17797500,2020,08,15
+'BMW211','BMW','2','220d','White','Turbo 2.0','coupe','AT',17797500,2021,04,09
+'BMW229','BMW','2','220d','Silver','Turbo 2.0','coupe','AT',17797500,2019,01,18
+'BMW220','BMW','2','220d','Silver','Turbo 2.0','coupe','AT',17797500,2020,11,27
+'BMW221','BMW','2','220d','Silver','Turbo 2.0','coupe','AT',17797500,2021,09,01
+'BMW239','BMW','2','220d','Black','Turbo 2.0','coupe','AT',17797500,2019,11,23
+'BMW230','BMW','2','220d','Black','Turbo 2.0','coupe','AT',17797500,2020,04,19
+'BMW231','BMW','2','220d','Black','Turbo 2.0','coupe','AT',17797500,2021,01,19
+'BMW249','BMW','2','220d','Grey','Turbo 2.0','coupe','AT',17797500,2019,09,17
+'BMW240','BMW','2','220d','Grey','Turbo 2.0','coupe','AT',17797500,2020,04,19
+'BMW241','BMW','2','220d','Grey','Turbo 2.0','coupe','AT',17797500,2021,05,24
+'BXB319','BMW','X3','xDrive 20','White','turbocharged 2.0','crossover','AT',20842500,2019,07,28
+'BXB310','BMW','X3','xDrive 20','White','turbocharged 2.0','crossover','AT',20842500,2020,06,27
+'BXB311','BMW','X3','xDrive 20','White','turbocharged 2.0','crossover','AT',20842500,2021,11,17
+'BXB329','BMW','X3','xDrive 20','Silver','turbocharged 2.0','crossover','AT',20842500,2019,08,05
+'BXB320','BMW','X3','xDrive 20','Silver','turbocharged 2.0','crossover','AT',20842500,2020,09,07
+'BXB321','BMW','X3','xDrive 20','Silver','turbocharged 2.0','crossover','AT',20842500,2021,08,27
+'BXB339','BMW','X3','xDrive 20','Black','turbocharged 2.0','crossover','AT',20842500,2019,10,03
+'BXB330','BMW','X3','xDrive 20','Black','turbocharged 2.0','crossover','AT',20842500,2020,06,13
+'BXB331','BMW','X3','xDrive 20','Black','turbocharged 2.0','crossover','AT',20842500,2021,01,26
+'BXB349','BMW','X3','xDrive 20','Grey','turbocharged 2.0','crossover','AT',20842500,2019,09,16
+'BXB340','BMW','X3','xDrive 20','Grey','turbocharged 2.0','crossover','AT',20842500,2020,07,17
+'BXB341','BMW','X3','xDrive 20','Grey','turbocharged 2.0','crossover','AT',20842500,2021,06,23
+'BWX319','BMW','X3','xDrive 30','White','turbocharged 2.0','crossover','AT',22732500,2019,08,08
+'BWX310','BMW','X3','xDrive 30','White','turbocharged 2.0','crossover','AT',22732500,2020,01,26
+'BWX311','BMW','X3','xDrive 30','White','turbocharged 2.0','crossover','AT',22732500,2021,10,03
+'BWX329','BMW','X3','xDrive 30','Silver','turbocharged 2.0','crossover','AT',22732500,2019,08,10
+'BWX320','BMW','X3','xDrive 30','Silver','turbocharged 2.0','crossover','AT',22732500,2020,06,04
+'BWX321','BMW','X3','xDrive 30','Silver','turbocharged 2.0','crossover','AT',22732500,2021,05,30
+'BWX339','BMW','X3','xDrive 30','Black','turbocharged 2.0','crossover','AT',22732500,2019,04,01
+'BWX330','BMW','X3','xDrive 30','Black','turbocharged 2.0','crossover','AT',22732500,2020,08,09
+'BWX331','BMW','X3','xDrive 30','Black','turbocharged 2.0','crossover','AT',22732500,2021,06,12
+'BWX349','BMW','X3','xDrive 30','Grey','turbocharged 2.0','crossover','AT',22732500,2019,08,30
+'BWX340','BMW','X3','xDrive 30','Grey','turbocharged 2.0','crossover','AT',22732500,2020,05,27
+'BWX341','BMW','X3','xDrive 30','Grey','turbocharged 2.0','crossover','AT',22732500,2021,04,17
+'D27119','Kia Rio','X','Comfort','Blue','1.6 MPI','hatchback','AT',7690000,2019,04,11
+'D27110','Kia Rio','X','Comfort','Blue','1.6 MPI','hatchback','AT',7690000,2020,08,01
+'D27111','Kia Rio','X','Comfort','Blue','1.6 MPI','hatchback','AT',7690000,2021,08,18
+'D27129','Kia Rio','X','Comfort','Black','1.6 MPI','hatchback','AT',7690000,2019,03,29
+'D27120','Kia Rio','X','Comfort','Black','1.6 MPI','hatchback','AT',7690000,2020,02,15
+'D27121','Kia Rio','X','Comfort','Black','1.6 MPI','hatchback','AT',7690000,2021,08,25
+'D27139','Kia Rio','X','Comfort','Red','1.6 MPI','hatchback','AT',7690000,2019,04,05
+'D27130','Kia Rio','X','Comfort','Red','1.6 MPI','hatchback','AT',7690000,2020,05,21
+'D27131','Kia Rio','X','Comfort','Red','1.6 MPI','hatchback','AT',7690000,2021,05,17
+'D27149','Kia Rio','X','Comfort','Grey','1.6 MPI','hatchback','AT',7690000,2019,02,11
+'D27140','Kia Rio','X','Comfort','Grey','1.6 MPI','hatchback','AT',7690000,2020,09,04
+'D27141','Kia Rio','X','Comfort','Grey','1.6 MPI','hatchback','AT',7690000,2021,07,02
+'D27159','Kia Rio','X','Comfort','White','1.6 MPI','hatchback','AT',7690000,2019,06,30
+'D27150','Kia Rio','X','Comfort','White','1.6 MPI','hatchback','AT',7690000,2020,01,18
+'D27151','Kia Rio','X','Comfort','White','1.6 MPI','hatchback','AT',7690000,2021,01,21
+'D27319','Kia Rio','X','Luxe','Blue','1.6 MPI','hatchback','AT',7990000,2019,01,13
+'D27310','Kia Rio','X','Luxe','Blue','1.6 MPI','hatchback','AT',7990000,2020,09,02
+'D27311','Kia Rio','X','Luxe','Blue','1.6 MPI','hatchback','AT',7990000,2021,07,09
+'D27329','Kia Rio','X','Luxe','Black','1.6 MPI','hatchback','AT',7990000,2019,10,14
+'D27320','Kia Rio','X','Luxe','Black','1.6 MPI','hatchback','AT',7990000,2020,05,14
+'D27321','Kia Rio','X','Luxe','Black','1.6 MPI','hatchback','AT',7990000,2021,02,15
+'D27339','Kia Rio','X','Luxe','Red','1.6 MPI','hatchback','AT',7990000,2019,07,16
+'D27330','Kia Rio','X','Luxe','Red','1.6 MPI','hatchback','AT',7990000,2020,01,20
+'D27331','Kia Rio','X','Luxe','Red','1.6 MPI','hatchback','AT',7990000,2021,08,25
+'D27349','Kia Rio','X','Luxe','Grey','1.6 MPI','hatchback','AT',7990000,2019,08,13
+'D27340','Kia Rio','X','Luxe','Grey','1.6 MPI','hatchback','AT',7990000,2020,02,23
+'D27341','Kia Rio','X','Luxe','Grey','1.6 MPI','hatchback','AT',7990000,2021,02,03
+'D27359','Kia Rio','X','Luxe','White','1.6 MPI','hatchback','AT',7990000,2019,04,19
+'D27350','Kia Rio','X','Luxe','White','1.6 MPI','hatchback','AT',7990000,2020,02,13
+'D27351','Kia Rio','X','Luxe','White','1.6 MPI','hatchback','AT',7990000,2021,01,18
+'G15319','Kia Rio','X','Premium','Blue','1.6 MPI','hatchback','AT',8990000,2019,05,15
+'G15310','Kia Rio','X','Premium','Blue','1.6 MPI','hatchback','AT',8990000,2020,09,04
+'G15311','Kia Rio','X','Premium','Blue','1.6 MPI','hatchback','AT',8990000,2021,10,03
+'G15329','Kia Rio','X','Premium','Black','1.6 MPI','hatchback','AT',8990000,2019,09,15
+'G15320','Kia Rio','X','Premium','Black','1.6 MPI','hatchback','AT',8990000,2020,08,02
+'G15321','Kia Rio','X','Premium','Black','1.6 MPI','hatchback','AT',8990000,2021,08,03
+'G15339','Kia Rio','X','Premium','Red','1.6 MPI','hatchback','AT',8990000,2019,06,10
+'G15330','Kia Rio','X','Premium','Red','1.6 MPI','hatchback','AT',8990000,2020,11,07
+'G15331','Kia Rio','X','Premium','Red','1.6 MPI','hatchback','AT',8990000,2021,06,06
+'G15349','Kia Rio','X','Premium','Grey','1.6 MPI','hatchback','AT',8990000,2019,04,05
+'G15340','Kia Rio','X','Premium','Grey','1.6 MPI','hatchback','AT',8990000,2020,02,13
+'G15341','Kia Rio','X','Premium','Grey','1.6 MPI','hatchback','AT',8990000,2021,07,06
+'G15359','Kia Rio','X','Premium','White','1.6 MPI','hatchback','AT',8990000,2019,03,05
+'G15350','Kia Rio','X','Premium','White','1.6 MPI','hatchback','AT',8990000,2020,01,19
+'G15351','Kia Rio','X','Premium','White','1.6 MPI','hatchback','AT',8990000,2021,01,22
+'D26619','Kia Rio','X','Style','Blue','1.6 MPI','hatchback','AT',8290000,2019,11,04
+'D26610','Kia Rio','X','Style','Blue','1.6 MPI','hatchback','AT',8290000,2020,05,07
+'D26611','Kia Rio','X','Style','Blue','1.6 MPI','hatchback','AT',8290000,2021,03,25
+'D26629','Kia Rio','X','Style','Black','1.6 MPI','hatchback','AT',8290000,2019,07,07
+'D26620','Kia Rio','X','Style','Black','1.6 MPI','hatchback','AT',8290000,2020,05,06
+'D26621','Kia Rio','X','Style','Black','1.6 MPI','hatchback','AT',8290000,2021,06,24
+'D26639','Kia Rio','X','Style','Red','1.6 MPI','hatchback','AT',8290000,2019,01,11
+'D26630','Kia Rio','X','Style','Red','1.6 MPI','hatchback','AT',8290000,2020,08,24
+'D26631','Kia Rio','X','Style','Red','1.6 MPI','hatchback','AT',8290000,2021,01,16
+'D26649','Kia Rio','X','Style','Grey','1.6 MPI','hatchback','AT',8290000,2019,09,07
+'D26640','Kia Rio','X','Style','Grey','1.6 MPI','hatchback','AT',8290000,2020,09,09
+'D26641','Kia Rio','X','Style','Grey','1.6 MPI','hatchback','AT',8290000,2021,02,16
+'D26659','Kia Rio','X','Style','White','1.6 MPI','hatchback','AT',8290000,2019,04,13
+'D26650','Kia Rio','X','Style','White','1.6 MPI','hatchback','AT',8290000,2020,02,14
+'D26651','Kia Rio','X','Style','White','1.6 MPI','hatchback','AT',8290000,2021,03,16
+'G15219','Kia Rio','X','Prestige','Blue','1.6 MPI','hatchback','AT',8490000,2019,06,17
+'G15210','Kia Rio','X','Prestige','Blue','1.6 MPI','hatchback','AT',8490000,2020,07,03
+'G15211','Kia Rio','X','Prestige','Blue','1.6 MPI','hatchback','AT',8490000,2021,01,30
+'G15229','Kia Rio','X','Prestige','Black','1.6 MPI','hatchback','AT',8490000,2019,08,06
+'G15220','Kia Rio','X','Prestige','Black','1.6 MPI','hatchback','AT',8490000,2020,04,18
+'G15221','Kia Rio','X','Prestige','Black','1.6 MPI','hatchback','AT',8490000,2021,10,14
+'G15239','Kia Rio','X','Prestige','Red','1.6 MPI','hatchback','AT',8490000,2019,05,30
+'G15230','Kia Rio','X','Prestige','Red','1.6 MPI','hatchback','AT',8490000,2020,02,07
+'G15231','Kia Rio','X','Prestige','Red','1.6 MPI','hatchback','AT',8490000,2021,06,23
+'G15249','Kia Rio','X','Prestige','Grey','1.6 MPI','hatchback','AT',8490000,2019,02,02
+'G15240','Kia Rio','X','Prestige','Grey','1.6 MPI','hatchback','AT',8490000,2020,06,30
+'G15241','Kia Rio','X','Prestige','Grey','1.6 MPI','hatchback','AT',8490000,2021,04,18
+'G15259','Kia Rio','X','Prestige','White','1.6 MPI','hatchback','AT',8490000,2019,04,26
+'G15250','Kia Rio','X','Prestige','White','1.6 MPI','hatchback','AT',8490000,2020,08,09
+'G15251','Kia Rio','X','Prestige','White','1.6 MPI','hatchback','AT',8490000,2021,11,11
+'GGJ119','Kia Rio','Sportage','Comfort','Blue','2.0 MPI','crossover','AT',10590000,2019,04,13
+'GGJ110','Kia Rio','Sportage','Comfort','Blue','2.0 MPI','crossover','AT',10590000,2020,09,21
+'GGJ111','Kia Rio','Sportage','Comfort','Blue','2.0 MPI','crossover','AT',10590000,2021,04,29
+'GGJ129','Kia Rio','Sportage','Comfort','Black','2.0 MPI','crossover','AT',10590000,2019,06,05
+'GGJ120','Kia Rio','Sportage','Comfort','Black','2.0 MPI','crossover','AT',10590000,2020,11,28
+'GGJ121','Kia Rio','Sportage','Comfort','Black','2.0 MPI','crossover','AT',10590000,2021,04,06
+'GGJ139','Kia Rio','Sportage','Comfort','Red','2.0 MPI','crossover','AT',10590000,2019,09,28
+'GGJ130','Kia Rio','Sportage','Comfort','Red','2.0 MPI','crossover','AT',10590000,2020,06,22
+'GGJ131','Kia Rio','Sportage','Comfort','Red','2.0 MPI','crossover','AT',10590000,2021,03,15
+'GGJ149','Kia Rio','Sportage','Comfort','Grey','2.0 MPI','crossover','AT',10590000,2019,02,06
+'GGJ140','Kia Rio','Sportage','Comfort','Grey','2.0 MPI','crossover','AT',10590000,2020,04,24
+'GGJ141','Kia Rio','Sportage','Comfort','Grey','2.0 MPI','crossover','AT',10590000,2021,10,18
+'GGJ159','Kia Rio','Sportage','Comfort','White','2.0 MPI','crossover','AT',10590000,2019,01,10
+'GGJ150','Kia Rio','Sportage','Comfort','White','2.0 MPI','crossover','AT',10590000,2020,10,10
+'GGJ151','Kia Rio','Sportage','Comfort','White','2.0 MPI','crossover','AT',10590000,2021,05,20
+'GIHX19','Kia Rio','Sportage','Luxe','Blue','2.0 MPI','crossover','AT',11590000,2019,02,24
+'GIHX10','Kia Rio','Sportage','Luxe','Blue','2.0 MPI','crossover','AT',11590000,2020,07,04
+'GIHX11','Kia Rio','Sportage','Luxe','Blue','2.0 MPI','crossover','AT',11590000,2021,07,16
+'GIHX29','Kia Rio','Sportage','Luxe','Black','2.0 MPI','crossover','AT',11590000,2019,08,10
+'GIHX20','Kia Rio','Sportage','Luxe','Black','2.0 MPI','crossover','AT',11590000,2020,07,14
+'GIHX21','Kia Rio','Sportage','Luxe','Black','2.0 MPI','crossover','AT',11590000,2021,07,01
+'GIHX39','Kia Rio','Sportage','Luxe','Red','2.0 MPI','crossover','AT',11590000,2019,04,13
+'GIHX30','Kia Rio','Sportage','Luxe','Red','2.0 MPI','crossover','AT',11590000,2020,09,10
+'GIHX31','Kia Rio','Sportage','Luxe','Red','2.0 MPI','crossover','AT',11590000,2021,08,10
+'GIHX49','Kia Rio','Sportage','Luxe','Grey','2.0 MPI','crossover','AT',11590000,2019,05,08
+'GIHX40','Kia Rio','Sportage','Luxe','Grey','2.0 MPI','crossover','AT',11590000,2020,03,28
+'GIHX41','Kia Rio','Sportage','Luxe','Grey','2.0 MPI','crossover','AT',11590000,2021,05,14
+'GIHX59','Kia Rio','Sportage','Luxe','White','2.0 MPI','crossover','AT',11590000,2019,10,12
+'GIHX50','Kia Rio','Sportage','Luxe','White','2.0 MPI','crossover','AT',11590000,2020,10,05
+'GIHX51','Kia Rio','Sportage','Luxe','White','2.0 MPI','crossover','AT',11590000,2021,08,27
+'GJJO19','Kia Rio','Sportage','Luxe +','Blue','2.4 GDI','crossover','AT',12590000,2019,09,08
+'GJJO10','Kia Rio','Sportage','Luxe +','Blue','2.4 GDI','crossover','AT',12590000,2020,11,20
+'GJJO11','Kia Rio','Sportage','Luxe +','Blue','2.4 GDI','crossover','AT',12590000,2021,03,05
+'GJJO29','Kia Rio','Sportage','Luxe +','Black','2.4 GDI','crossover','AT',12590000,2019,04,25
+'GJJO20','Kia Rio','Sportage','Luxe +','Black','2.4 GDI','crossover','AT',12590000,2020,07,25
+'GJJO21','Kia Rio','Sportage','Luxe +','Black','2.4 GDI','crossover','AT',12590000,2021,06,17
+'GJJO39','Kia Rio','Sportage','Luxe +','Red','2.4 GDI','crossover','AT',12590000,2019,06,20
+'GJJO30','Kia Rio','Sportage','Luxe +','Red','2.4 GDI','crossover','AT',12590000,2020,03,27
+'GJJO31','Kia Rio','Sportage','Luxe +','Red','2.4 GDI','crossover','AT',12590000,2021,02,06
+'GJJO49','Kia Rio','Sportage','Luxe +','Grey','2.4 GDI','crossover','AT',12590000,2019,01,25
+'GJJO40','Kia Rio','Sportage','Luxe +','Grey','2.4 GDI','crossover','AT',12590000,2020,03,05
+'GJJO41','Kia Rio','Sportage','Luxe +','Grey','2.4 GDI','crossover','AT',12590000,2021,08,20
+'GJJO59','Kia Rio','Sportage','Luxe +','White','2.4 GDI','crossover','AT',12590000,2019,07,06
+'GJJO50','Kia Rio','Sportage','Luxe +','White','2.4 GDI','crossover','AT',12590000,2020,06,20
+'GJJO51','Kia Rio','Sportage','Luxe +','White','2.4 GDI','crossover','AT',12590000,2021,02,20
+'GIND19','Kia Rio','Sportage','Prestige','Blue','2.4 GDI','crossover','AT',13090000,2019,04,09
+'GIND10','Kia Rio','Sportage','Prestige','Blue','2.4 GDI','crossover','AT',13090000,2020,04,30
+'GIND11','Kia Rio','Sportage','Prestige','Blue','2.4 GDI','crossover','AT',13090000,2021,07,22
+'GIND29','Kia Rio','Sportage','Prestige','Black','2.4 GDI','crossover','AT',13090000,2019,02,10
+'GIND20','Kia Rio','Sportage','Prestige','Black','2.4 GDI','crossover','AT',13090000,2020,07,11
+'GIND21','Kia Rio','Sportage','Prestige','Black','2.4 GDI','crossover','AT',13090000,2021,01,17
+'GIND39','Kia Rio','Sportage','Prestige','Red','2.4 GDI','crossover','AT',13090000,2019,10,15
+'GIND30','Kia Rio','Sportage','Prestige','Red','2.4 GDI','crossover','AT',13090000,2020,06,27
+'GIND31','Kia Rio','Sportage','Prestige','Red','2.4 GDI','crossover','AT',13090000,2021,11,27
+'GIND49','Kia Rio','Sportage','Prestige','Grey','2.4 GDI','crossover','AT',13090000,2019,11,06
+'GIND40','Kia Rio','Sportage','Prestige','Grey','2.4 GDI','crossover','AT',13090000,2020,07,24
+'GIND41','Kia Rio','Sportage','Prestige','Grey','2.4 GDI','crossover','AT',13090000,2021,04,18
+'GIND59','Kia Rio','Sportage','Prestige','White','2.4 GDI','crossover','AT',13090000,2019,09,19
+'GIND50','Kia Rio','Sportage','Prestige','White','2.4 GDI','crossover','AT',13090000,2020,03,10
+'GIND51','Kia Rio','Sportage','Prestige','White','2.4 GDI','crossover','AT',13090000,2021,04,20
+'H00A19','Kia Rio','Sportage','GT Line','Blue','2.4 GDI','crossover','AT',13790000,2019,07,01
+'H00A10','Kia Rio','Sportage','GT Line','Blue','2.4 GDI','crossover','AT',13790000,2020,10,09
+'H00A11','Kia Rio','Sportage','GT Line','Blue','2.4 GDI','crossover','AT',13790000,2021,11,26
+'H00A29','Kia Rio','Sportage','GT Line','Black','2.4 GDI','crossover','AT',13790000,2019,01,16
+'H00A20','Kia Rio','Sportage','GT Line','Black','2.4 GDI','crossover','AT',13790000,2020,09,19
+'H00A21','Kia Rio','Sportage','GT Line','Black','2.4 GDI','crossover','AT',13790000,2021,05,28
+'H00A39','Kia Rio','Sportage','GT Line','Red','2.4 GDI','crossover','AT',13790000,2019,01,19
+'H00A30','Kia Rio','Sportage','GT Line','Red','2.4 GDI','crossover','AT',13790000,2020,05,17
+'H00A31','Kia Rio','Sportage','GT Line','Red','2.4 GDI','crossover','AT',13790000,2021,08,08
+'H00A49','Kia Rio','Sportage','GT Line','Grey','2.4 GDI','crossover','AT',13790000,2019,03,17
+'H00A40','Kia Rio','Sportage','GT Line','Grey','2.4 GDI','crossover','AT',13790000,2020,01,16
+'H00A41','Kia Rio','Sportage','GT Line','Grey','2.4 GDI','crossover','AT',13790000,2021,11,02
+'H00A59','Kia Rio','Sportage','GT Line','White','2.4 GDI','crossover','AT',13790000,2019,09,24
+'H00A50','Kia Rio','Sportage','GT Line','White','2.4 GDI','crossover','AT',13790000,2020,06,16
+'H00A51','Kia Rio','Sportage','GT Line','White','2.4 GDI','crossover','AT',13790000,2021,02,02
+'D94419','Kia Rio','K5','Comfort','Blue','2.0 MPI','4-door sedan','AT',11490000,2019,11,05
+'D94410','Kia Rio','K5','Comfort','Blue','2.0 MPI','4-door sedan','AT',11490000,2020,03,04
+'D94411','Kia Rio','K5','Comfort','Blue','2.0 MPI','4-door sedan','AT',11490000,2021,01,14
+'D94429','Kia Rio','K5','Comfort','Black','2.0 MPI','4-door sedan','AT',11490000,2019,09,07
+'D94420','Kia Rio','K5','Comfort','Black','2.0 MPI','4-door sedan','AT',11490000,2020,10,16
+'D94421','Kia Rio','K5','Comfort','Black','2.0 MPI','4-door sedan','AT',11490000,2021,07,24
+'D94439','Kia Rio','K5','Comfort','Red','2.0 MPI','4-door sedan','AT',11490000,2019,03,29
+'D94430','Kia Rio','K5','Comfort','Red','2.0 MPI','4-door sedan','AT',11490000,2020,06,26
+'D94431','Kia Rio','K5','Comfort','Red','2.0 MPI','4-door sedan','AT',11490000,2021,02,11
+'D94449','Kia Rio','K5','Comfort','Grey','2.0 MPI','4-door sedan','AT',11490000,2019,06,28
+'D94440','Kia Rio','K5','Comfort','Grey','2.0 MPI','4-door sedan','AT',11490000,2020,10,24
+'D94441','Kia Rio','K5','Comfort','Grey','2.0 MPI','4-door sedan','AT',11490000,2021,04,28
+'D94459','Kia Rio','K5','Comfort','White','2.0 MPI','4-door sedan','AT',11490000,2019,01,01
+'D94450','Kia Rio','K5','Comfort','White','2.0 MPI','4-door sedan','AT',11490000,2020,04,13
+'D94451','Kia Rio','K5','Comfort','White','2.0 MPI','4-door sedan','AT',11490000,2021,06,13
+'G73519','Kia Rio','K5','Luxe','Blue','2.0 MPI','4-door sedan','AT',12690000,2019,06,24
+'G73510','Kia Rio','K5','Luxe','Blue','2.0 MPI','4-door sedan','AT',12690000,2020,10,03
+'G73511','Kia Rio','K5','Luxe','Blue','2.0 MPI','4-door sedan','AT',12690000,2021,03,27
+'G73529','Kia Rio','K5','Luxe','Black','2.0 MPI','4-door sedan','AT',12690000,2019,04,19
+'G73520','Kia Rio','K5','Luxe','Black','2.0 MPI','4-door sedan','AT',12690000,2020,09,26
+'G73521','Kia Rio','K5','Luxe','Black','2.0 MPI','4-door sedan','AT',12690000,2021,08,18
+'G73539','Kia Rio','K5','Luxe','Red','2.0 MPI','4-door sedan','AT',12690000,2019,10,17
+'G73530','Kia Rio','K5','Luxe','Red','2.0 MPI','4-door sedan','AT',12690000,2020,01,29
+'G73531','Kia Rio','K5','Luxe','Red','2.0 MPI','4-door sedan','AT',12690000,2021,09,19
+'G73549','Kia Rio','K5','Luxe','Grey','2.0 MPI','4-door sedan','AT',12690000,2019,08,14
+'G73540','Kia Rio','K5','Luxe','Grey','2.0 MPI','4-door sedan','AT',12690000,2020,09,30
+'G73541','Kia Rio','K5','Luxe','Grey','2.0 MPI','4-door sedan','AT',12690000,2021,07,20
+'G73559','Kia Rio','K5','Luxe','White','2.0 MPI','4-door sedan','AT',12690000,2019,09,13
+'G73550','Kia Rio','K5','Luxe','White','2.0 MPI','4-door sedan','AT',12690000,2020,02,04
+'G73551','Kia Rio','K5','Luxe','White','2.0 MPI','4-door sedan','AT',12690000,2021,03,19
+'G73719','Kia Rio','K5','Style','Blue','2.0 MPI','4-door sedan','AT',13290000,2019,05,24
+'G73710','Kia Rio','K5','Style','Blue','2.0 MPI','4-door sedan','AT',13290000,2020,07,17
+'G73711','Kia Rio','K5','Style','Blue','2.0 MPI','4-door sedan','AT',13290000,2021,05,22
+'G73729','Kia Rio','K5','Style','Black','2.0 MPI','4-door sedan','AT',13290000,2019,04,08
+'G73720','Kia Rio','K5','Style','Black','2.0 MPI','4-door sedan','AT',13290000,2020,01,19
+'G73721','Kia Rio','K5','Style','Black','2.0 MPI','4-door sedan','AT',13290000,2021,11,29
+'G73739','Kia Rio','K5','Style','Red','2.0 MPI','4-door sedan','AT',13290000,2019,05,16
+'G73730','Kia Rio','K5','Style','Red','2.0 MPI','4-door sedan','AT',13290000,2020,06,12
+'G73731','Kia Rio','K5','Style','Red','2.0 MPI','4-door sedan','AT',13290000,2021,04,01
+'G73749','Kia Rio','K5','Style','Grey','2.0 MPI','4-door sedan','AT',13290000,2019,08,29
+'G73740','Kia Rio','K5','Style','Grey','2.0 MPI','4-door sedan','AT',13290000,2020,11,16
+'G73741','Kia Rio','K5','Style','Grey','2.0 MPI','4-door sedan','AT',13290000,2021,11,14
+'G73759','Kia Rio','K5','Style','White','2.0 MPI','4-door sedan','AT',13290000,2019,01,17
+'G73750','Kia Rio','K5','Style','White','2.0 MPI','4-door sedan','AT',13290000,2020,10,17
+'G73751','Kia Rio','K5','Style','White','2.0 MPI','4-door sedan','AT',13290000,2021,04,16
+'G72019','Kia Rio','K5','Prestige','Blue','2.0 MPI','4-door sedan','AT',13390000,2019,02,22
+'G72010','Kia Rio','K5','Prestige','Blue','2.0 MPI','4-door sedan','AT',13390000,2020,06,19
+'G72011','Kia Rio','K5','Prestige','Blue','2.0 MPI','4-door sedan','AT',13390000,2021,11,06
+'G72029','Kia Rio','K5','Prestige','Black','2.0 MPI','4-door sedan','AT',13390000,2019,11,22
+'G72020','Kia Rio','K5','Prestige','Black','2.0 MPI','4-door sedan','AT',13390000,2020,04,18
+'G72021','Kia Rio','K5','Prestige','Black','2.0 MPI','4-door sedan','AT',13390000,2021,07,20
+'G72039','Kia Rio','K5','Prestige','Red','2.0 MPI','4-door sedan','AT',13390000,2019,10,17
+'G72030','Kia Rio','K5','Prestige','Red','2.0 MPI','4-door sedan','AT',13390000,2020,08,11
+'G72031','Kia Rio','K5','Prestige','Red','2.0 MPI','4-door sedan','AT',13390000,2021,09,01
+'G72049','Kia Rio','K5','Prestige','Grey','2.0 MPI','4-door sedan','AT',13390000,2019,09,23
+'G72040','Kia Rio','K5','Prestige','Grey','2.0 MPI','4-door sedan','AT',13390000,2020,02,25
+'G72041','Kia Rio','K5','Prestige','Grey','2.0 MPI','4-door sedan','AT',13390000,2021,11,03
+'G72059','Kia Rio','K5','Prestige','White','2.0 MPI','4-door sedan','AT',13390000,2019,03,18
+'G72050','Kia Rio','K5','Prestige','White','2.0 MPI','4-door sedan','AT',13390000,2020,09,14
+'G72051','Kia Rio','K5','Prestige','White','2.0 MPI','4-door sedan','AT',13390000,2021,02,24
